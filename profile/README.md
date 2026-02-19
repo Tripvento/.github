@@ -2,7 +2,7 @@
 
 **Intent-based hotel ranking API for travel platforms.**
 
-Tripvento scores hotels by *why* someone is traveling — not just price or stars. Our API combines geospatial intelligence, semantic AI, and sentiment analysis to rank properties by traveler intent across 14 personas (business, family, romance, wellness, and more).
+Tripvento scores hotels by *why* someone is traveling — not just price or stars. Our [Hotel API](https://tripvento.com) combines geospatial intelligence, semantic AI, and sentiment analysis to rank properties by traveler intent across 14 personas (business, family, romance, wellness, and more).
 
 ## How it works
 
