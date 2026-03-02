@@ -10,7 +10,7 @@ A "Business" query prioritizes quiet streets and proximity to convention centers
 
 ## By the numbers
 
-🌍 **212 destinations** across 25+ countries, rapidly scaling to 500+ destinations · 🏨 **24K+ hotels** · 🧠 **14 traveler personas** · ⚡ **<250ms** response times
+🌍 **300+ destinations** across 35+ countries, rapidly scaling to 500+ destinations · 🏨 **35K+ hotels** · 🧠 **14 traveler personas** · ⚡ **<250ms** response times
 
 ## Integrate
 
